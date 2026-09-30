@@ -7,7 +7,7 @@
 
 ## 👋 Hola, soy Enmanuel
 
-Desarrollador **full-stack autodidacta** desde Venezuela 🇻🇪. Vengo de la ingeniería industrial y hoy construyo aplicaciones web completas: marketplaces, e-commerce, plataformas de cursos y landing pages.
+Desarrollador **full-stack autodidacta** desde Venezuela. Vengo de la ingeniería industrial y hoy construyo aplicaciones web completas: marketplaces, e-commerce, plataformas de cursos y landing pages.
 
 - 🔭 Trabajando en proyectos propios y de clientes con **Next.js (App Router) + TypeScript**
 - 🌱 Aprendiendo y mejorando cada día: rendimiento, i18n y buenas prácticas
@@ -29,16 +29,16 @@ Desarrollador **full-stack autodidacta** desde Venezuela 🇻🇪. Vengo de la i
 
 ## 🚀 Proyectos destacados
 
-<!-- TODO: reemplaza TU-REPO por el nombre real de cada repositorio y añade el link de Vercel si lo tienes -->
-
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **[1Auto.market](https://github.com/enmanuelrondon1/TU-REPO)** | Marketplace de vehículos con chat en tiempo real | Next.js, MongoDB, Cloudinary, Pusher, NextAuth |
-| **[La Despensa](https://github.com/enmanuelrondon1/TU-REPO)** | E-commerce de abastos para Venezuela | Next.js, MongoDB, Tailwind |
-| **[Conversor Venezuela](https://github.com/enmanuelrondon1/TU-REPO)** | Tasas BCV, dólar paralelo y euro | Next.js, TypeScript |
-| **[Curso Academia](https://github.com/enmanuelrondon1/TU-REPO)** | Plataforma de cursos (LMS) | Next.js, Prisma, NextAuth, shadcn/ui |
-| **[Hotels Clone](https://github.com/enmanuelrondon1/TU-REPO)** | Clon de Hotels.com con pagos | Next.js, MongoDB, NextAuth, Stripe |
-| **[Portfolio](https://github.com/enmanuelrondon1/TU-REPO)** | Mi portfolio personal, estilo bento oscuro | Next.js, Tailwind |
+| **[1Auto.market](https://1auto.market/)** | Marketplace de vehículos con chat en tiempo real | Next.js, MongoDB, Cloudinary, Pusher, NextAuth |
+| **[EnmaStay](https://enma-stay.vercel.app/)** · [código](https://github.com/enmanuelrondon1/EnmaStay) | Alquiler de villas y casas con búsqueda por mapa, reservas y pagos | Next.js, Prisma, Stripe |
+| **[EnmaLead](https://enmalead.vercel.app/)** · [código](https://github.com/enmanuelrondon1/enmalead) | Captación de leads para inmobiliarias con asistente de voz IA | Next.js, Prisma |
+| **[EnmaKicks](https://enma-kicks.vercel.app/)** | Tienda de zapatillas running y lifestyle con carrito y pagos | Next.js, Stripe |
+| **[EnmaTech](https://enmatech.vercel.app/)** | Tienda online de electrónica con ofertas y categorías | Next.js, TypeScript |
+| **[Curso Academia](https://curso-academia-bay.vercel.app/)** | Plataforma de cursos online (LMS) | Next.js, Prisma, NextAuth, shadcn/ui |
+| **[Conversor Venezuela](https://conversor-venezuela-2025.vercel.app/)** | Conversor USD/VES con tasas en tiempo real | Next.js, TypeScript |
+| **[Millionaire Games](https://millionaire-game-alpha.vercel.app/)** | Colección de juegos de concurso: trivia, Wordle, memoria y más | Next.js, TypeScript |
 
 ---
 
